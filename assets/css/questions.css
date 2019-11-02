@@ -1,7 +1,6 @@
 body
 {
-    font-family: 'CarlitoRegular';
-    background-image: url("../images/images.png");
+    font-family: 'Times New Roman', Times, serif;
     background-size: 100%;
 }
 
@@ -13,23 +12,20 @@ h1
 
 .header
 {
-    background-color: rgb(62, 62, 214);
+    margin: 40px;
+    padding: 75px;
+    width: 1200px;
+    height: 250px;
+    background-color: rgb(7, 47, 133);
     text-align: center;
-    color: aliceblue
-    ;
-    text-shadow:
-		-1px -1px 0 black,
-		1px -1px 0 black,
-		-1px 1px 0 black,
-        1px 1px 0 black;
-    border: 5px solid gold;
+    color: aliceblue;
 }
 
 .bodier
 {
     background-color: white;
     opacity: 80%;
-    border: 3px solid blue;
+    border: 1px solid gray;
     margin-top: 70px;
     height: 510px;
 }
