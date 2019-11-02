@@ -2,26 +2,30 @@ body
 {
     font-family: 'CarlitoRegular';
     /* background-image: url("../images/images.png"); */
-    background-size: 100%;
+    /* background-size: 100%; */
 }
 
 h1
 {
     font-size: 50px;
-
 }
 
 p
 {
     padding-top: 15px;
 }
-.header
+
+button
 {
-    margin: 40px;
-    padding: 75px;
-    width: 1200px;
-    height: 250px;
-    background-color: rgb(7, 47, 133);
+    margin-top: 25px;
+}
+
+#headerheader
+{
+    padding: 50px;
+    line-height: 200px;
+    height: 200px;
+    background-color: #21325A;
     text-align: center;
     color: aliceblue;
 }
@@ -29,7 +33,7 @@ p
 .bodier
 {
     background-color: white;
-    margin-top: 70px;
+    margin: 40px 0;
     height: 510px;
     box-shadow: -1px -1px 1px gray,
 		1px -1px 1px gray,
